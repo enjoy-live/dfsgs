@@ -2,4 +2,6 @@ package com.example.demo;
 
 public class TestClass {
     // B1-node1
+
+    // B3-node1
 }
